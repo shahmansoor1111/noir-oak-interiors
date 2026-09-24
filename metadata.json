@@ -1,0 +1,6 @@
+{
+  "name": "Noir & Oak Interiors",
+  "description": "A sophisticated luxury interior design studio specializing in contemporary residential interiors, architectural lighting, and curated furniture styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
